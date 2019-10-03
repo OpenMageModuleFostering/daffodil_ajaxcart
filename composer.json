@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Daffodil_Ajaxcart",
+    "name": "OpenMageModuleFostering\/Daffodil_Ajaxcart",
     "type": "magento-module",
     "license": "GPL",
     "homepage": "",
     "description": "Add product using Ajax ",
     "authors": [
-    {
-        "name": "Daffodil Software",
-        "email": "ashish.mittal@daffodilsw.com"
-    }
-],
+        {
+            "name": "Daffodil Software",
+            "email": "ashish.mittal@daffodilsw.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
